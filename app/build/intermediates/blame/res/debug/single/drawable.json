@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_stackpushpop.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\iv_stackpushpop.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\daysofweek.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\daysofweek.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_binarysearch1.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\iv_binarysearch1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\searching.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\searching.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\binary_search_tree.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\binary_search_tree.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_binarysearch3.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\iv_binarysearch3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_stackpushpop.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\iv_stackpushpop.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greatestamongst3.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\greatestamongst3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\copy_icon.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\copy_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\daysofweek.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\daysofweek.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_queueende.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\iv_queueende.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linkedlist.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\linkedlist.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_border_unselected.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\rounded_border_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_binarysearch2.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\iv_binarysearch2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_reversearray.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\iv_reversearray.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materialized_button_rounded_corner.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\materialized_button_rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sorting.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\sorting.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_lable_background.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\fab_lable_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swaptwonumbers.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\swaptwonumbers.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_lable_background.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\fab_lable_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_transpose.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\iv_transpose.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_whileloop.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\iv_whileloop.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heap.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\heap.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doubt_icon.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\doubt_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\miscellaneous.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\miscellaneous.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swaptwonumbers.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\swaptwonumbers.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_forloop.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\iv_forloop.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\searching.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\searching.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\binary_search_tree.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\binary_search_tree.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\miscellaneous.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\miscellaneous.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_diagonal.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\iv_diagonal.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\materialized_button_rounded_corner.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\materialized_button_rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_binarysearch1.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\iv_binarysearch1.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrays_and_strings.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\arrays_and_strings.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_dowhileloop.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\iv_dowhileloop.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_forloop.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\iv_forloop.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_matrix.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\iv_matrix.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greatestamongst3.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\greatestamongst3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loop.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\loop.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_dowhileloop.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\iv_dowhileloop.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_binarysearch3.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\iv_binarysearch3.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loop.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\loop.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_whileloop.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\iv_whileloop.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\square_border_selected.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\square_border_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_style.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\gridview_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\square_border_unselected.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\square_border_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_dot_grey.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.github.paolorotolo\\appintro\\4.0.0\\res\\drawable\\indicator_dot_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_transpose.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\iv_transpose.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_border_unselected.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\rounded_border_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_dot_white.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.github.paolorotolo\\appintro\\4.0.0\\res\\drawable\\indicator_dot_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_border_selected.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\rounded_border_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linkedlist.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\linkedlist.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_reversearray.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\iv_reversearray.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_febonacci.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\iv_febonacci.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_lable_background.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\gridview_lable_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doubt_icon.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\doubt_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\square_border_unselected.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\square_border_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_style.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\gridview_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_lable_background.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\gridview_lable_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrays_and_strings.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\arrays_and_strings.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\copy_icon.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\copy_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_matrix.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\iv_matrix.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_diagonal.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\iv_diagonal.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_febonacci.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\iv_febonacci.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_style.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\listview_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_border_selected.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\rounded_border_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_queueende.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\iv_queueende.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_dot_grey.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.github.paolorotolo\\appintro\\4.0.0\\res\\drawable\\indicator_dot_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stack.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\stack.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basic.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\basic.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basic.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\basic.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sorting.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\sorting.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_dot_white.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.github.paolorotolo\\appintro\\4.0.0\\res\\drawable\\indicator_dot_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\square_border_selected.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\square_border_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\queue.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\queue.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\queue.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\queue.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stack.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\stack.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_style.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\listview_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_binarysearch2.png",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\src\\main\\res\\drawable\\iv_binarysearch2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heap.png",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\src\\main\\res\\drawable\\heap.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Dell\\algorithms-original\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    }
+]

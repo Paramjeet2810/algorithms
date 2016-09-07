@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.suvariyaraj.algorithms.AlgorithmActivity">
+    <item
+        android:id="@+id/action_developer"
+        android:orderInCategory="100"
+        android:title="About Us"
+        app:showAsAction="never" />
+
+</menu>

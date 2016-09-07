@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.suvariyaraj.algorithms.DoubtActivity"
+    android:background="@android:color/white">
+
+    <TextView
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:padding="15dp"
+        android:id="@+id/doubt_lable1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Algorithm Name :"/>
+    <EditText
+        android:padding="15dp"
+        android:id="@+id/doubt_algoname"
+        android:layout_below="@+id/doubt_lable1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Algorithm Name "
+        android:background="@drawable/rounded_border_unselected"/>
+    <TextView
+        android:textColor="#000000"
+        android:padding="15dp"
+        android:textSize="20dp"
+        android:layout_below="@id/doubt_algoname"
+        android:id="@+id/doubt_lable2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Doubt :"/>
+    <EditText
+        android:padding="15dp"
+        android:id="@+id/doubt_doubt"
+        android:layout_below="@+id/doubt_lable2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:hint="Write down your doubt here"
+        android:inputType="textMultiLine"
+        android:gravity="top"
+        android:ems="10"
+        android:background="@drawable/rounded_border_unselected"
+        />
+    <Button
+        android:id="@+id/doubt_send"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/doubt_doubt"
+        android:layout_centerHorizontal="true"
+        android:padding="15dp"
+        android:textColor="@android:color/white"
+        android:background="@drawable/materialized_button_rounded_corner"
+        android:text="Send a mail"/>
+</RelativeLayout>
